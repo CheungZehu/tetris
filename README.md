@@ -1,2 +1,2 @@
 # tetris
-小游戏俄罗斯方块
+[俄罗斯方块](https://cheungzehu.github.io/tetris/)
