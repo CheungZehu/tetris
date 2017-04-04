@@ -1,5 +1,5 @@
-# tetris
+# tetris(俄罗斯方块)
 
-渣渣游戏
+[预览](https://cheungzehu.github.io/tetris/)
 
-[俄罗斯方块](https://cheungzehu.github.io/tetris/)
+![Image](img/tetris2.jpg)
